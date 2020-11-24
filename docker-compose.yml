@@ -1,0 +1,6 @@
+version: '3'
+services:
+ web:
+   image: vaday/afupload:37474
+   ports:
+    - 8020:80
